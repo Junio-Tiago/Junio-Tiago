@@ -1,4 +1,12 @@
 <div>
+<h1>Olá eu sou Junio Tiago</h1>
+<h2>Apaixonado por tecnologia e aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
+<h2>Certificações</h2>
+<ul>
+<li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
+</ul>
+
+<div>
   <a href="https://github.com/Junio-Tiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junio-Tiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junio-Tiago&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -11,9 +19,6 @@
           
 </div>
  
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/juniotiagoads/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
