@@ -1,6 +1,6 @@
 <div>
 <h1>Olá eu sou Junio Tiago</h1>
-<h2>Apaixonado por tecnologia e aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
+<h2>Apaixonado por tecnologia e atualmente aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
 <h2>Certificações</h2>
 <ul>
 <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
@@ -19,6 +19,7 @@
           
 </div>
  
+  <br>
  
 <div> 
   <a href="https://www.instagram.com/juniotiagoads/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
