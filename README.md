@@ -3,7 +3,7 @@
 <h2>Apaixonado por tecnologia e atualmente aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
 <h2>Certificações</h2>
 <ul>
-<li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
+<li>Curso Devquest de Desenvolvimento Front-End utlizando HTML, CSS, JavaScript, React ->(Status) Concluido ✔</li>
 </ul>
 
 <div>
